@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 191492db6e452eb468b95433ec162164, type: 3}
+  m_Name: InteractionLayerSettings
+  m_EditorClassIdentifier: 
+  m_LayerNames:
+  - Default
+  - Power Plug
+  - RJ45Socket
+  - DB9Socket
+  - SFPSocket
+  - OpticCableSocket
+  - C13Socket
+  - USBSocket
+  - EX9200_LineCard
+  - EX9200_RoutingEngine
+  - EX9200_PSU
+  - EX9200_FanCompartment
+  - MX480_LineCard
+  - MX480_RE
+  - MX480_PSU
+  - MX480_FanCompartment
+  - DC_PowerConnector
+  - ME4924_PSU
+  - ME4924_FC
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
